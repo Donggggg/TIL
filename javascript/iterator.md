@@ -8,6 +8,21 @@
   > break outer;
   > }
 
+### 유사 배열
+
+- 객체인데 인덱스 속성과 length가 있는 객체이다.
+- Array의 메서드를 사용하지 못한다. (apply, call을 활용하면 사용할 수 있다.)
+- `Array.isArray()` 함수나 `array instanceof Array`로 구분할 수 있다.
+
+```
+let unknown = {
+  "0": 123,
+  "1": 14343,
+  "2": 1232,
+  "length": 3
+}
+```
+
 ### 일반 객체를 iterator화 하기
 
 - Symbol.iterator를 활용해서 아래와 같이 가능하다.
