@@ -13,6 +13,7 @@
 - V8 엔진의 메모리 관리 기법
 - 이벤트 버블링 및 캡처링
 - Reflow와 Repaint
+- Web Storage
 
 ### Javascript
 
