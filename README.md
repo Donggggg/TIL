@@ -38,6 +38,7 @@
 - 즉시 함수 실행 표현식
 - 객체로서의 함수
 - new Function 문법
+- Prototype
 
 ### Network
 
