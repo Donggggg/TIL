@@ -67,3 +67,8 @@
 
 - 요청이나 응답의 실제 내용을 담고 있다.
 - 헤더의 `Content-Type`으로 Content의 종류를 구분할 수 있다.
+
+### 레퍼런스
+
+https://ko.wikipedia.org/wiki/HTTP
+https://developer.mozilla.org/ko/docs/Web/HTTP/Overview

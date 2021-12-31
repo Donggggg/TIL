@@ -200,3 +200,8 @@
 4. 레이지 스위핑 (Lazy Sweeping)
   메모리가 필요할 때까지 페이지의 가비지 삭제를 지연시킨다.
 ```
+
+### 레퍼런스 & 이미지 출처
+
+https://evan-moon.github.io/2019/06/28/v8-analysis/
+https://ui.toast.com/weekly-pick/ko_20200228

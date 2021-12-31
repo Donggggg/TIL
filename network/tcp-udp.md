@@ -33,3 +33,8 @@
 - 서버와 클라이언트는 유니캐스트(1:1), 브로드캐스트(1:N), 멀티캐스트(1:M)가 가능하다.
 - DNS, 비디오/오디오 스트리밍에 사용된다.
 - TCP에 비해 헤더가 단순하다.
+
+### 레퍼런스 및 이미지 출처
+
+https://velog.io/@hidaehyunlee/TCP-%EC%99%80-UDP-%EC%9D%98-%EC%B0%A8%EC%9D%B4
+https://mangkyu.tistory.com/15

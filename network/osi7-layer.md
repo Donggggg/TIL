@@ -72,3 +72,7 @@
 
 - 응용 서비스를 수행한다.
 - `HTTP, TELNET, FTP, SMTP` 등이 있다.
+
+### 레퍼런스 및 이미지 출처
+
+https://jhnyang.tistory.com/498?category=947031

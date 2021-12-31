@@ -83,3 +83,7 @@
 - 이는 `HPACK 압축 방식` 이라고도 부른다.
 - 중복된 헤더값은 Table에서 검출하여 index 값만 전송한다.
 - 중복되지 않은 헤더값은 Huffman Encoding 기법으로 인코딩 후 전송한다.
+
+### 레퍼런스 및 이미지 출처
+
+https://ijbgo.tistory.com/26

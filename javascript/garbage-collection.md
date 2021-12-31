@@ -29,4 +29,6 @@
   > 3. idle-time collection (유휴 시간 수집)
   >    실행에 주는 영향을 최소화하기 위해 CPU가 유휴 상태일 때만 가지비 컬렉션을 실행한다.
 
-### V8 엔진의 카비지 컬렉션
+### 레퍼런스
+
+https://ko.javascript.info/
