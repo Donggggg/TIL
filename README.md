@@ -41,6 +41,7 @@
 - Prototype
 - Callback
 - Promise
+- async와 await
 
 ### Network
 
