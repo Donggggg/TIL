@@ -40,6 +40,7 @@
 - new Function 문법
 - Prototype
 - Callback
+- Promise
 
 ### Network
 
