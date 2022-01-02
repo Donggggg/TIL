@@ -42,6 +42,7 @@
 - Callback
 - Promise
 - async와 await
+- 이벤트 루프
 
 ### Network
 
