@@ -1,4 +1,4 @@
-# 반복문
+# 반복 구문
 
 ### 레이블 지정
 
@@ -56,3 +56,40 @@ for (let i of range) {
 - 이터러블(iterable)은 Symbol.iterator 메서드가 구현된 객체
 - 유사 배열은 length 프로퍼티가 존재하는 객체
 - `Array.from` 메서드를 활용해 이터러블과 유사 배열을 진짜 배열로 만들 수 있다.
+
+### async 이터레이터
+
+```//
+let range = {
+  from: 1,
+  to: 5,
+
+  [Symbol.asyncIterator]() {
+    return {
+      current: this.from,
+      last: this.to,
+
+      async next() {
+        if (this.current <= this.last) {
+          return { done: false, value: this.current++ };
+        } else {
+          return { done: true };
+        }
+      }
+    };
+  }
+};
+
+(async () => {
+  for await (let value of range) {
+    alert(value);
+  }
+})()
+```
+
+- 위에서 일반 객체를 이터레이터화 한 것을 비동기 이터레이터로 변경한 코드이다.
+- `Symbol.iterator` 대신 `Symbol.asyncIterator`를 사용한다.
+- `next()` 메서드는 프로미스 객체를 리턴해야 한다.
+- 반복을 위해 `for await` 문법을 사용한다.
+- 비동기 이터레이터는 전개연산자 문법을 사용할 수 없다.
+-
