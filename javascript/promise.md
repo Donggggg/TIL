@@ -8,6 +8,7 @@ let promise = new Promise(function (resolve, reject) {
 });
 ```
 
+- 비동기 처리에 사용되는 객체
 - 위와 같은 문법으로 생성할 수 있다.
 - 기본 인자인 `resolve`와 `reject`는 각각 `값`과 `에러`를 넣어 executor 함수의 결과를 처리한다.
 - promise 객체 내부에는 현재 상태인 `state`와 결과물인 `result`가 존재한다.
