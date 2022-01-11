@@ -15,6 +15,7 @@
 - URI(Uniform Resource Identifier)
 - 쿠키와 세션
 - CDN(Contents Delivery Network)
+- REST(REpresentational State Transfer)
 
 ### Browser
 
@@ -69,4 +70,4 @@
 
 ---
 
-`최신 업데이트 날짜 (22.1.4)`
+`최신 업데이트 날짜 (22.1.11)`
