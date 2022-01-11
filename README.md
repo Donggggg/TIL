@@ -9,6 +9,12 @@
 ### Web
 
 - 서버 사이드 렌더링과 클라이언트 사이드 렌더링
+- 대칭키와 비대칭키
+- JWT 토큰
+- 브라우저에 "google.com"을 입력하면 일어나는 일
+- URI(Uniform Resource Identifier)
+- 쿠키와 세션
+- CDN(Contents Delivery Network)
 
 ### Browser
 
@@ -59,6 +65,7 @@
 - OSI 7계층
 - TCP와 UDP
 - HandShake
+- IPv4
 
 ---
 
