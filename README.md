@@ -16,6 +16,7 @@
 - 쿠키와 세션
 - CDN(Contents Delivery Network)
 - REST(REpresentational State Transfer)
+- CORS(Cross Origin Resource Sharing)
 
 ### Browser
 
@@ -74,4 +75,4 @@
 
 ---
 
-`최신 업데이트 날짜 (22.1.16)`
+`최신 업데이트 날짜 (22.1.17)`
