@@ -2,7 +2,7 @@
 
 > TIL(Today I Learend) 레포지토리입니다.  
 > 오늘 공부한 것에 대한 간단한 정리를 기록합니다.  
-> 개인 학습 용도로 작성되었기에 참고에 불편함이 있을 수 있습니다.
+> 개인 학습 용도로 작성하고 있습니다.
 
 ## Preview
 
@@ -17,6 +17,7 @@
 - CDN(Contents Delivery Network)
 - REST(REpresentational State Transfer)
 - CORS(Cross Origin Resource Sharing)
+- Proxy
 
 ### Browser
 
@@ -75,4 +76,4 @@
 
 ---
 
-`최신 업데이트 날짜 (22.1.17)`
+`최신 업데이트 날짜 (22.2.23)`
