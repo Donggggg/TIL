@@ -85,3 +85,6 @@
 
 ### Refactoring
 - 챕터2 - 리팩터링 원칙
+
+### Functional Programming
+- 쏙쏙 들어오는 함수형 코딩 - 3장 
