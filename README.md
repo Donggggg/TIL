@@ -85,6 +85,7 @@
 
 ### Refactoring
 - 챕터2 - 리팩터링 원칙
+- 챕터3 - 코드에서 나는 악취
 
 ### Functional Programming
 - 쏙쏙 들어오는 함수형 코딩 - 3장 
