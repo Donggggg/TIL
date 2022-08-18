@@ -87,5 +87,6 @@
 - 챕터2 - 리팩터링 원칙
 - 챕터3 - 코드에서 나는 악취
 
-### Functional Programming
-- 쏙쏙 들어오는 함수형 코딩 - 3장 
+### SSD Functional Programming
+- 챕터3 - 역션과 계산, 데이터의 차이를 알기
+- 챕터4 - 액션에서 계산 빼내기
