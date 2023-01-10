@@ -69,6 +69,10 @@
 
 - 최적화 방법
 
+### NextJS
+
+- Incremental-Static-Regeneration
+
 ### Redux
 
 - 리덕스란
