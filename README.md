@@ -71,7 +71,8 @@
 
 ### NextJS
 
-- Incremental-Static-Regeneration
+- Incremental Static Regeneration
+- Image Optimization
 
 ### Redux
 
