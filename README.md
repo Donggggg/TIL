@@ -72,6 +72,7 @@
 ### NextJS
 
 - getServerSideProps
+- getStaticPaths
 - Incremental Static Regeneration
 - Image Optimization
 - Handling Scripts
