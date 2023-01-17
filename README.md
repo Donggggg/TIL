@@ -75,6 +75,7 @@
 - getStaticPaths
 - getStaticProps
 - Incremental Static Regeneration
+- Client side
 - Image Optimization
 - Handling Scripts
 
