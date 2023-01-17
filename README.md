@@ -73,6 +73,7 @@
 
 - getServerSideProps
 - getStaticPaths
+- getStaticProps
 - Incremental Static Regeneration
 - Image Optimization
 - Handling Scripts
