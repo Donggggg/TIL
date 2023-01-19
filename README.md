@@ -78,6 +78,7 @@
 - Client side
 - Image Optimization
 - Handling Scripts
+- Dynamic Routes
 
 ### Redux
 
