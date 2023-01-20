@@ -79,6 +79,7 @@
 - Image Optimization
 - Handling Scripts
 - Dynamic Routes
+- Shallow Routing
 
 ### Redux
 
